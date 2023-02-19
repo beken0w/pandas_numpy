@@ -1,11 +1,11 @@
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 from scipy.stats import linregress
+
 
 def draw_plot():
     # Read data from file
-
-
+    
     # Create scatter plot
 
 

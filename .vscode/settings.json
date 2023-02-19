@@ -1,4 +1,7 @@
 {
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": false
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
 }
